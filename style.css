@@ -1,0 +1,24 @@
+.title {
+	text-align:center;
+}
+
+.desc {
+	text-align:justify;
+}
+
+.schedule td, .schedule tr, .schedule {
+	text-align:center;
+	border:1px solid black;
+	border-collapse:collapse;
+	padding-left: 10px;
+	padding-right: 10px;
+    height: 10px;
+}
+
+.schedule {
+	margin-top: 100px;
+	margin-bottom: 100px;
+	margin-left: auto;
+	margin-right: auto;
+	table-layout: fixed;
+}
